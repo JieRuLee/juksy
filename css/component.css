@@ -1234,6 +1234,7 @@
     font-size: 24px;
     font-weight: 500;
     color: #2d2d2d;
+    line-height: 1.5;
 }
 @media(max-width:1024px){
     .title--h2_content{
