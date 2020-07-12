@@ -234,7 +234,7 @@
 
 @media(max-width:768px) {
     .logo__image {
-        padding-top: 15px;
+        padding-top: 17px;
         padding-left: 0px;
      }
     .logo__image img {
@@ -1228,6 +1228,18 @@
         margin: 10px 0 20px;
         line-height: 1.5;
         
+    }
+}
+.title--h2_content{
+    font-size: 24px;
+    font-weight: 500;
+    color: #2d2d2d;
+}
+@media(max-width:1024px){
+    .title--h2_content{
+        font-size: 18px;
+        font-weight: 500;
+        color: #2d2d2d;
     }
 }
 
