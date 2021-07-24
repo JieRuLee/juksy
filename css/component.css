@@ -878,11 +878,11 @@
     }
 }
 .icon-member {
-    background-image: url('https://m.juksy.com/img/icon_member_w.svg');
+    background-image: url('../images/login_img-w.svg') ;
 }
 
 .icon-search {
-    background-image: url('https://m.juksy.com/img/icon_search_w.svg');
+    background-image: url('../images/seach_img-w.svg ');
 }
 .icon-btn {
     display: inline-block;
@@ -2058,7 +2058,7 @@ a.list__link:hover{
         width: 100%;
         display: block;
         margin-right: 0px;
-        flex: 100%
+        flex: 100%;
         line-height: 1.5;
     }
 }
